@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "JuanXenditTest"
-  s.version      = "0.2.0"
+  s.version      = "0.3.0"
   s.summary      = "Sample SDK"
   s.homepage     = "https://www.xendit.co"
   s.license      = "MIT"
